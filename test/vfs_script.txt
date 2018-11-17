@@ -1,0 +1,17 @@
+createvfs demo1 1048576
+mountvfs demo1
+makedir / usr
+makedir / #bin
+makedir / bin
+makedir / usr
+makedir / abc
+addfile /usr abc.txt abc1.txt
+addfile /bin abc1.txt abc1.txt
+addfile /bin abc.txt abc1.txt
+updatefile /usr/abc.txt new.txt
+listfile /usr/abc.txt list.txt
+listfile /bin/abc1.txt list1.txt
+searchfile abc search.txt
+addfile /usr pqr.txt abc1.txt
+addfile /usr pq.txt abc1.txt
+searchfile p searchp.txt

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/10/vfs-33/test
+END
+vfsdriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/15/vfs-33/test/vfsdriver.c
+END
+testmountvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/vfs-33/test/testmountvfs.c
+END
+testhashtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/14/vfs-33/test/testhashtable.c
+END
+testbst.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/7/vfs-33/test/testbst.c
+END
+vfs_script.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/vfs-33/test/vfs_script.txt
+END
+testcreatevfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/vfs-33/test/testcreatevfs.c
+END
+testmkdirvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/vfs-33/test/testmkdirvfs.c
+END
+testlinkedlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/14/vfs-33/test/testlinkedlist.c
+END
+testnarytree.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/vfs-33/test/testnarytree.c
+END
